@@ -4,7 +4,14 @@
 ```diff
 Hi, welcome :^)
 
-@@I'm a front-end developer@@
+@@ I'm a front-end developer @@
 ➜ Studying Computer Science at FURB
-➜ Interested in web development, free software, AI and bad jokes
+➜ Interested in web development, machine learning and bad jokes
+
+.stack
+    .vuejs (2 & 3)
+    .css > .sass
+    .javascript > .typescript
+    .python
+    .c#
 ```
