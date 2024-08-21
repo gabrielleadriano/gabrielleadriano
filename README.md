@@ -4,9 +4,9 @@
 ```diff
 Hi, welcome :^)
 
-@@ I'm a front-end developer @@
-➜ Studying Computer Science at FURB
-➜ Interested in web development, machine learning and bad jokes
+@@ I'm a full-stack developer @@
+➜ Bachelor's degree in Computer Science (FURB)
+➜ Interested in web development, bioinformatics and bad jokes
 
 .stack
     .vuejs (2 & 3)
